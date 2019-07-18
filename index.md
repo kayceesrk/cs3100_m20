@@ -26,7 +26,7 @@ is found [here](/resources).
 ## Essential Details
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
-* **Where:** CS34. 
+* **Where:** CS34
 * **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, (possibly) F 13:00 to 13:50. See [detailed schedule](/schedule).
 * **TAs:** TBD
 * **TA office hours:** TBD
