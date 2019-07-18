@@ -1,0 +1,16 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "Item 1"
+      subhref: "/miscellany/item-1/"
+    - subtitle: "Item 2"
+      subhref: "/miscellany/item-2/"

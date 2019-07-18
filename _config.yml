@@ -1,0 +1,43 @@
+# Site settings
+title: Course Website
+subtitle: Title of the Course
+description: |
+    Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Etiam fermentum massa id justo varius, vitae blandit nibh aliquet.
+    Nam consequat accumsan massa id lacinia. Proin ac placerat neque. Vivamus ornare eget tortor ac tincidunt.
+    Mauris semper viverra dui in molestie. Proin bibendum metus orci, quis sollicitudin ligula pretium non.
+    Integer nec lacus eget neque laoreet semper. Pellentesque eu dolor rutrum, consectetur enim nec, fermentum odio.
+    Duis venenatis metus cursus, ultrices nulla in, dapibus urna. Fusce pellentesque eros sed justo viverra ultricies.
+    Morbi porttitor dui ut erat congue accumsan. Donec eget turpis quam. Nam quis lobortis nisl.
+    Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis.
+    Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit.
+    Praesent accumsan odio egestas, mollis lorem eget, euismod arcu.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cs3100_f19.github.io" # the base hostname & protocol for your site
+syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
+githubdir: "svmiller/course-website"
+
+# Author/user information
+email: svmille@clemson.edu
+twitter_username: stevenvmiller
+github_username:  svmiller
+authorurl: "http://svmiller.com"
+address: |
+    Department of Political Science
+    232 Brackett Hall
+    Clemson, SC 29634-1354
+
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
