@@ -4,5 +4,5 @@
 
 ```bash
 $ cd lectures
-$ docker run -it -p 8888:8888 -p 8000:8000 -v `pwd`:/lectures cs3100_iitm:latest
+$ docker run -it -p 8888:8888 -v `pwd`:/lectures kayceesrk/cs3100_iitm:latest
 ```
