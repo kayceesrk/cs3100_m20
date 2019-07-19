@@ -1,4 +1,4 @@
-# CS3100 -- Paradigms of Programming -- CSE IITM -- Fall 2019
+# CS3100 -- Paradigms of Programming (IITM Fall 2019)
 
 ## Docker
 
