@@ -9,6 +9,7 @@ layout: default
 </div>
 
 {% include image.html url="/cs3100_f19/_images/paradigms.png"
+   href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"
    caption="Don't worry. We will only cover a small subset of this." width=800 align="center" %}
 
 The aim of the course is to teach you about the different paradigms of
@@ -20,7 +21,7 @@ paradigm through [OCaml](https://ocaml.org/) and logic paradigm through Prolog
 description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
 
 The course will be primarily taught through interactive [Jupyter
-Notebook](https://jupyter.org/). The instructions for setting up the notebooks
+Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
 is found [here](/resources).
 
 ## Essential Details
