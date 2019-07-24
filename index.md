@@ -38,15 +38,15 @@ is found [here](/resources).
 
 | Item         | Due         | Weightage (%) |
 |--------------|-------------|--------------:|
-| Assignment 1 | Tu 13/08/19 | 7.5           |
-| Assignment 2 | Tu 03/09/19 | 7.5           |
-| Quiz 1       | Tu 04/09/19 | 12.5          |
-| Assignment 3 | Tu 13/08/19 | 7.5           |
-| Assignment 4 | Tu 13/08/19 | 7.5           |
-| Quiz 2       | Tu 13/08/19 | 12.5          |
-| Assignment 5 | Tu 13/08/19 | 7.5           |
-| Assignment 6 | Tu 13/08/19 | 7.5           |
-| End Sem      | Tu 19/11/19 | 30.0          |
+| Assignment 1 | Tu 13/08/19 | 5.0           |
+| Assignment 2 | Tu 03/09/19 | 5.0           |
+| Quiz 1       | Tu 04/09/19 | 15.0          |
+| Assignment 3 | Tu 13/08/19 | 5.0           |
+| Assignment 4 | Tu 13/08/19 | 5.0           |
+| Quiz 2       | Tu 13/08/19 | 15.0          |
+| Assignment 5 | Tu 13/08/19 | 5.0           |
+| Assignment 6 | Tu 13/08/19 | 5.0           |
+| End Sem      | Tu 19/11/19 | 40.0          |
 
 <br/> 
 
