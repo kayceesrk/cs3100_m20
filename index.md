@@ -41,11 +41,11 @@ is found [here](/resources).
 | Assignment 1 | Tu 13/08/19 | 5.0           |
 | Assignment 2 | Tu 03/09/19 | 5.0           |
 | Quiz 1       | Tu 04/09/19 | 15.0          |
-| Assignment 3 | Tu 13/08/19 | 5.0           |
-| Assignment 4 | Tu 13/08/19 | 5.0           |
-| Quiz 2       | Tu 13/08/19 | 15.0          |
-| Assignment 5 | Tu 13/08/19 | 5.0           |
-| Assignment 6 | Tu 13/08/19 | 5.0           |
+| Assignment 3 | Tu 23/09/19 | 5.0           |
+| Assignment 4 | Tu 09/10/19 | 5.0           |
+| Quiz 2       | Tu 16/10/19 | 15.0          |
+| Assignment 5 | Tu 25/10/19 | 5.0           |
+| Assignment 6 | Tu 08/11/19 | 5.0           |
 | End Sem      | Tu 19/11/19 | 40.0          |
 
 <br/> 
