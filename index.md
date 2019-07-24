@@ -48,6 +48,8 @@ is found [here](/resources).
 | Assignment 6 | Tu 13/08/19 | 7.5           |
 | End Sem      | Tu 19/11/19 | 30.0          |
 
+<br/> 
+
 ## Acknowledgements
 
 The course borrows some of the materials from
