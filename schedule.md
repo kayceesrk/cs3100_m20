@@ -6,12 +6,12 @@ permalink: /schedule/
 
 The topics included in the schedule is neither sound (some of the listed topics
 may not be covered) nor complete (some unlisted topic may be included). The
-interactive notebooks are accessed using the instructions
+interactive notebooks are accessed using docker container whose instructions are
 [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).
 
 | Lectures | Date  | Day | Theme | Notebook | Comments|
 |---------:|-------|-----|-------|---------|
-|o1|29/07/19|M|Admin. Intro. Paradigms.|[notebook]() [html]({{site.baseurl}}/lectures/lec1/lec1.html)||
+|o1|29/07/19|M|Admin. Intro. Paradigms.|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec1/lec1.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec1/lec1.html)|**Recommended exercise:** Set up the course [jupyter notebook](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).|
 |o2|30/07/19|T|OCaml|||
 |o3|31/07/19|W|OCaml|||
 |o4|05/08/19|M|OCaml|||
