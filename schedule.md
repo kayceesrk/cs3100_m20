@@ -9,7 +9,7 @@ may not be covered) nor complete (some unlisted topic may be included).
 
 | Lectures | Date  | Day | Theme | Notebook | Comments|
 |---------:|-------|-----|-------|---------|
-|o1|29/07/19|M|Admin. Intro. Paradigms.|||
+|o1|29/07/19|M|Admin. Intro. Paradigms.|[notebook]() [html]()||
 |o2|30/07/19|T|OCaml|||
 |o3|31/07/19|W|OCaml|||
 |o4|05/08/19|M|OCaml|||
