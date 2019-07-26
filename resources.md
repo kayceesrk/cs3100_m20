@@ -19,6 +19,10 @@ permalink: /resources/
 ### References
 * [**OCaml Manual**](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
 
+### Practice
+
+* [99 Problems](https://ocaml.org/learn/tutorials/99problems.html)
+
 ## Prolog
 
 ### Recommended
