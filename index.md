@@ -22,7 +22,7 @@ description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
 
 The course will be primarily taught through interactive [Jupyter
 Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
-is found [here](/resources).
+is found [here]({{ site.baseurl }}/resources).
 
 ## Essential Details
 
@@ -38,7 +38,7 @@ is found [here](/resources).
 
 | Item         | Due         | Weightage (%) |
 |--------------|-------------|--------------:|
-| Assignment 1 | Tu 13/08/19 | 5.0           |
+| Assignment 1 | Tu 19/08/19 | 5.0           |
 | Assignment 2 | Tu 03/09/19 | 5.0           |
 | Quiz 1       | Tu 04/09/19 | 15.0          |
 | Assignment 3 | Tu 23/09/19 | 5.0           |
