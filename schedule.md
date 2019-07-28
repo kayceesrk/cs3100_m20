@@ -16,8 +16,8 @@ interactive notebooks are accessed using docker container whose instructions are
 | 3|31/07/19|W|Expressions|||
 |  |02/08/19|F|Tools: Git, Docker, Jupyter|||
 | 4|05/08/19|M|Functions|||
-| 5|06/08/19|T|Data Types and Pattern Matching 1|||
-| 6|07/08/19|W|Data Types and Pattern Matching 2|||
+| 5|06/08/19|T|Data Types|||
+| 6|07/08/19|W|Pattern Matching|||
 | 7|13/08/19|T|Higher Order Programming|||
 | 8|14/08/19|W|Lambda Calculus|||
 | 9|16/08/19|F|Lambda Calculus|||
