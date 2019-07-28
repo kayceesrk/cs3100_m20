@@ -22,7 +22,7 @@ description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
 
 The course will be primarily taught through interactive [Jupyter
 Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
-is found [here]({{ site.baseurl }}/resources).
+is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).
 
 ## Essential Details
 
