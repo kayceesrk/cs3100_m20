@@ -28,8 +28,11 @@ is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-note
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
 * **Where:** CS34
-* **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, (possibly) F 13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
-* **TAs:** TBD
+* **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F
+  13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
+* **TAs:** M Prasanna Kumar (CS15B050), Shashank Shekhar Dubey (CS17S025), Atul
+  Dhiman (CS18M014), Diptanshu Kakwani (CS18S019), Padhiyar Sumit Kishorkumar
+  (CS18S042), Bikash Kumar Behera (CS19M019)
 * **TA office hours:** TBD
 * **Office Hours:** Tuesday 10:15 to 11:15, Wednesday 09:15 to 10:15 @ BSB371.
   Other slots by appointment.
