@@ -30,8 +30,7 @@ is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-note
 * **Where:** CS34
 * **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F
   13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
-* **Office Hours:** Tuesday 10:15 to 11:15, Wednesday 09:15 to 10:15 @ BSB371.
-  Other slots by appointment.
+* **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
 * **TAs:** 
 
 | Name | Email | Office Hours |

@@ -11,15 +11,15 @@ interactive notebooks are accessed using docker container whose instructions are
 
 | Lectures | Date  | Day | Theme | Notebook | Comments|
 |---------:|-------|-----|-------|---------|
-| 1|29/07/19|M|Admin. Intro. Paradigms.|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec1/lec1.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec1/lec1.html)|**Recommended exercise:** Set up the course [jupyter notebook](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).|
-| 2|30/07/19|T|Functional Programming|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec2/lec2.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec2/lec2.html)||
-| 3|31/07/19|W|Expressions|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec3/lec3.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec3/lec3.html)| [Chapter 2 CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html) |
+| 1|29/07/19|M|Admin. Intro. Paradigms.| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec1/lec1.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec1/lec1.html)|**Recommended exercise:** Set up the course [jupyter notebook](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).|
+| 2|30/07/19|T|Functional Programming| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec2/lec2.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec2/lec2.html)||
+| 3|31/07/19|W|Expressions| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec3/lec3.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec3/lec3.html) | [Chapter 2 CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html) |
 |  |02/08/19|F|Tutorial: Git, Docker, Jupyter|||
-| 4|05/08/19|M|Functions||[Chapter 2 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html)|
-| 5|06/08/19|T|Data Types||[Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html)|
-| 6|07/08/19|W|Pattern Matching||[Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html)|
-| 7|13/08/19|T|Higher Order Programming||[Chapter 4 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/intro.html)|
-| 8|14/08/19|W|Lambda Calculus|||
+| 4|05/08/19|M|Functions| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec4/lec4.ipynb) [\[html\]]({{site.baseurl}}/lectures/lec4/lec4.html) |[Chapter 2 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html)|
+| 5|06/08/19|T|Data Types| | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
+| 6|07/08/19|W|Pattern Matching| | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
+| 7|13/08/19|T|Higher Order Programming| | [Chapter 4 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/intro.html) |
+| 8|14/08/19|W|Lambda Calculus| | |
 | 9|16/08/19|F|Lambda Calculus|||
 |10|19/08/19|M|Lambda Calculus||Assignment 1 due|
 |11|20/08/19|T|Lambda Calculus||KC away @ ICFP Wed-Sat|
