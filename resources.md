@@ -60,3 +60,10 @@ website](https://opam.ocaml.org/doc/Install.html) and switching to OCaml version
 ## SWI-Prolog
 
 SWI-Prolog installation instructions are [here](https://www.swi-prolog.org/Download.html).
+
+## CS3100 Virtual Box Disk Image
+
+An Ubuntu virtual box disk image (VDI) with the jupyter notebook is available
+[here](https://drive.google.com/file/d/1YSavbv5lu6-bJvBaUau7bbuh63_TO0u9/view).
+The password is `cs3100`. The course git repo has been cloned under `cs3100` in
+the home directory.
