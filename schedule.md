@@ -18,6 +18,7 @@ interactive notebooks are accessed using docker container whose instructions are
 | 4|05/08/19|M|Functions| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec4/lec4.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec4/lec4.pdf) |[Chapter 2 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html)|
 | 5|06/08/19|T|Data Types| | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
 | 6|07/08/19|W|Pattern Matching| | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
+|  |09/08/19|F|Tutorial: Git, Docker, Jupyter|||
 | 7|13/08/19|T|Higher Order Programming| | [Chapter 4 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/intro.html) |
 | 8|14/08/19|W|Lambda Calculus| | |
 | 9|16/08/19|F|Lambda Calculus|||
