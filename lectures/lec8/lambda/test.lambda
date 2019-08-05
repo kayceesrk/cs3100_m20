@@ -1,0 +1,52 @@
+(λ0.λ1.λ2.λ3.λ+.λ-.λ*.λtrue.λfalse.λ&&.λ||.λif.λpair.λfirst.λsecond.
+    (λ!.λ<=.λnil.λnil?.λcons.λhead.λtail.
+        (λ=.
+            (λ<>.λ>=.λ>.
+                (λ<.
+                    (λY.
+# ------------------------------------------------------------------------------
+
+    (\fib.(Y fib) 3)
+        (\f.\n.(if (<= n 1) 1 (+ (f (- n 2)) (f (- n 1)))))
+
+
+
+# ------------------------------------------------------------------------------
+
+# Combinators
+                    )
+                    (λg.(λx.g (x x)) (λx.g (x x))) # Y
+# Derived functions
+                )
+                (λx.λy.! (>= x y)) # <
+            )
+            (λx.λy.! (= x y)) # <>
+            (λx.λy.|| (! (<= x y)) (= x y)) # >=
+            (λx.λy.! (<= x y)) # >
+        )
+        (λx.λy.&& (<= x y) (<= y x)) # =
+    )
+    (λp.p false true) # not
+    (λm.λn.(λn.n (λx.false) true) (- m n)) # <=
+    (pair true true) # nil
+    first # nil?
+    (λh.λt.pair false (pair h t)) # cons
+    (λz.first (second z)) # head
+    (λz.second (second z)) # tail
+)
+# Basic Church encoding
+(λf.λx.x) # 0
+(λf.λx.f x) # 1
+(λf.λx.f (f x)) # 2
+(λf.λx.f (f (f x))) # 3
+(λm.λn.λf.λx.m f (n f x)) # +
+(λm.λn.n (λn.λf.λx.n (λg.λh.h (g f)) (λu.x) (λu.u)) m) # -
+(λm.λn.λf.m (n f)) # *
+(λx.λy.x) # true
+(λx.λy.y) # false
+(λp.λq.p q p) # and
+(λp.λq.p p q) # or
+(λp.λa.λb.p a b) # if
+(λx.λy.λf.f x y) # pair
+(λp.p (λx.λy.x)) # first
+(λp.p (λx.λy.y)) # second
