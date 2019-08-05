@@ -1,8 +1,5 @@
-
 open Syntax
 open Eval
-
-
 
 let _ =
     try
@@ -12,4 +9,3 @@ let _ =
         (*print_endline (string_of_expr v);*)
         ();
     with e -> Error.print_error e
-;;
