@@ -4,6 +4,16 @@ title: Assignments
 permalink: /assignments/
 ---
 
+All assignments should be submitted through the [course
+moodle](https://courses.iitm.ac.in/course/view.php?id=4939). 
+
+| Assignment | Due Date |
+|:------------:|----------|
+| [0]({{ site.baseurl }}/assignments/assignment0.ipynb) | 12/08/19 (not graded) |
+| [1]({{ site.baseurl }}/assignments/assignment1.ipynb) | 19/08/19 |
+
+<br>
+
 ## Assignment late penalties
 
 We are flexible about submitting assignments late. Unless otherwise specified,
