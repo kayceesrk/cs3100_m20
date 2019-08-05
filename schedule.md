@@ -16,7 +16,7 @@ interactive notebooks are accessed using docker container whose instructions are
 | 3|31/07/19|W|Expressions| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec3/lec3.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec3/lec3.pdf) | [Chapter 2 CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html) |
 |  |02/08/19|F|Tutorial: Git, Docker, Jupyter|||
 | 4|05/08/19|M|Functions| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec4/lec4.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec4/lec4.pdf) |[Chapter 2 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html)|
-| 5|06/08/19|T|Data Types| | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
+| 5|06/08/19|T|Data Types| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec5/lec5.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec5/lec5.pdf) | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
 | 6|07/08/19|W|Pattern Matching| | [Chapter 3 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
 |  |09/08/19|F|Tutorial: Git, Docker, Jupyter|||
 | 7|13/08/19|T|Higher Order Programming| | [Chapter 4 in CS3110 text book](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/intro.html) |
