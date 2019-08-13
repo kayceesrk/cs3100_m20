@@ -40,7 +40,7 @@ is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-note
 | Atul Dhiman | CS18M014@smail.iitm.ac.in | |
 | Diptanshu Kakwani | CS18S019@smail.iitm.ac.in | Friday 11:00 to 12:00 | 
 | Padhiyar Sumit Kishorkumar | CS18S042@smail.iitm.ac.in | Monday 12:00 to 13:00 |
-| Saurav Chakraborty | CS19S015@smail.iitm.ac.in | |
+| Abhijeet Nijampurkar | CS18m007@smail.iitm.ac.in | |
 
 <br>
 Liaise with the TAs over email about where to meet. 
