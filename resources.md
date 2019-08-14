@@ -23,6 +23,14 @@ permalink: /resources/
 
 * [99 Problems](https://ocaml.org/learn/tutorials/99problems.html)
 
+## Lambda Calculus
+
+### Recommended
+
+* **Types and Programming Languages** (TAPL), by Benjamin Pierce. 
+* **Peter Selinger's lecture notes on lambda calculus** available
+  [here](https://arxiv.org/abs/0804.3434).
+
 ## Prolog
 
 ### Recommended
