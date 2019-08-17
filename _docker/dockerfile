@@ -30,4 +30,9 @@ RUN sudo apt install -y vim tmux
 COPY .ocamlinit /home/opam/.ocamlinit
 ENV PATH $PATH:/home/opam/.local/bin
 RUN jupyter-nbextension enable rise --py
+
+RUN pip install git+https://github.com/kayceesrk/egal.git
+RUN jupyter-nbextension install egal --py --user
+RUN jupyter-nbextension enable egal --py --user
+
 WORKDIR /lectures
