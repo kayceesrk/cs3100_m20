@@ -25,8 +25,8 @@ interactive notebooks are accessed using docker container whose instructions are
 |10|19/08/19|M|Lambda Calculus: Review ||**Assignment 1 due**|
 |11|20/08/19|T|Lambda Calculus: Encodings| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec10/lec10.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec10/lec10.pdf)| TAPL Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 3 |
 |12|26/08/19|M|Lambda Calculus: Encodings| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec10/lec10.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec10/lec10.pdf)| TAPL Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 3 |
-|13|27/08/19|T|Lambda Calculus|||
-|14|28/08/19|W|Lambda Calculus|||
+|13|27/08/19|T|Lambda Calculus: STLC | [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec11/lec11.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec11/lec11.pdf)| TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
+|14|28/08/19|W|Lambda Calculus: STLC | [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec11/lec11.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec11/lec11.pdf)| TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
 |15|03/09/19|T|Lambda Calculus||Assignment 2 due|
 |  |04/09/19|W|**Quiz 1**|||
 |16|06/09/19|F|OCaml|||
