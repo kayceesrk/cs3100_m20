@@ -30,35 +30,33 @@ interactive notebooks are accessed using docker container whose instructions are
 |  |30/08/19|F|Tutorial on Quiz1 portions|||
 |15|03/09/19|T|(Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | **Assignment 2 due**, [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html) |
 |  |04/09/19|W|**Quiz 1**|||
-|16|06/09/19|F|OCaml|||
-|17|13/09/19|F|OCaml||Tuesday Timetable|
-|18|16/09/19|M|OCaml|||
+|16|06/09/19|F|(Side) Effects|||
+|17|13/09/19|F|Modular Programming||Tuesday Timetable|
+|18|16/09/19|M|Modular Programming|||
 |19|17/09/19|T|OCaml|||
 |20|18/09/19|W|OCaml|||
-|21|09/09/19|F|OCaml|||
-|22|23/09/19|M|OCaml||Assignment 3 due|
+|21|20/09/19|F|OCaml|||
+|22|23/09/19|M|OCaml|||
 |23|24/09/19|T|OCaml|||
 |24|25/09/19|W|OCaml|||
-|25|30/09/19|M|Logic Programming|||
+|25|30/09/19|M|Logic Programming||**Assignment 3 due**|
 |26|01/10/19|T|Logic Programming|||
 |27|04/10/19|F|Logic Programming|||
 |28|07/10/19|M|Logic Programming|||
-|29|09/10/19|W|Logic Programming||Assignment 4 due|
+|29|09/10/19|W|Logic Programming|||
 |30|14/10/19|M|Logic Programming|||
-|31|15/10/19|T|Logic Programming|||
+|31|15/10/19|T|Logic Programming||**Assignment 4 due**|
 |32|16/10/19|W|**Quiz 2**|||
 |33|18/10/19|F|Logic Programming|||
 |34|21/10/19|M|Logic Programming|||
 |35|22/10/19|T|Logic Programming|||
 |36|23/10/19|W|Logic Programming|||
-|  |25/10/19|F|||Assignment 5 due|
 |37|28/10/19|M|Logic Programming|||
-|38|29/10/19|T|Logic Programming|||
+|38|29/10/19|T|Logic Programming||**Assignment 5 due**|
 |39|30/10/19|W|Concurrent Programming|||
 |40|04/11/19|M|Concurrent Programming|||
 |41|05/11/19|T|Concurrent Programming|||
 |42|06/11/19|W|Concurrent Programming|||
-|  |08/11/19|F|||Assignment 6 due|
 |43|11/11/19|M|Concurrent Programming|||
-|44|13/11/19|W|Concurrent Programming|||
+|44|13/11/19|W|Concurrent Programming||**Assignment 6 due**|
 |  |19/11/19|T|End Sem|||
