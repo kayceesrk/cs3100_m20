@@ -31,11 +31,11 @@ interactive notebooks are accessed using docker container whose instructions are
 |15|03/09/19|T|(Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | **Assignment 2 due**, [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html) |
 |  |04/09/19|W|**Quiz 1**|||
 |16|06/09/19|F|OCaml|||
-|17|09/09/19|M|OCaml|||
-|18|13/09/19|F|OCaml||Tuesday Timetable|
-|19|16/09/19|M|OCaml|||
-|20|17/09/19|T|OCaml|||
-|21|18/09/19|W|OCaml|||
+|17|13/09/19|F|OCaml||Tuesday Timetable|
+|18|16/09/19|M|OCaml|||
+|19|17/09/19|T|OCaml|||
+|20|18/09/19|W|OCaml|||
+|21|09/09/19|F|OCaml|||
 |22|23/09/19|M|OCaml||Assignment 3 due|
 |23|24/09/19|T|OCaml|||
 |24|25/09/19|W|OCaml|||
