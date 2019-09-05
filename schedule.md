@@ -44,19 +44,19 @@ interactive notebooks are accessed using docker container whose instructions are
 |27|04/10/19|F|Logic Programming|||
 |28|07/10/19|M|Logic Programming|||
 |29|09/10/19|W|Logic Programming|||
-|30|14/10/19|M|Logic Programming|||
-|31|15/10/19|T|Logic Programming||**Assignment 4 due**|
+|30|14/10/19|M|Logic Programming||**Assignment 4 due**|
+|31|15/10/19|T|Logic Programming|||
 |32|16/10/19|W|**Quiz 2**|||
 |33|18/10/19|F|Logic Programming|||
 |34|21/10/19|M|Logic Programming|||
 |35|22/10/19|T|Logic Programming|||
 |36|23/10/19|W|Logic Programming|||
-|37|28/10/19|M|Logic Programming|||
-|38|29/10/19|T|Logic Programming||**Assignment 5 due**|
+|37|28/10/19|M|Logic Programming||**Assignment 5 due**|
+|38|29/10/19|T|Logic Programming|||
 |39|30/10/19|W|Concurrent Programming|||
 |40|04/11/19|M|Concurrent Programming|||
 |41|05/11/19|T|Concurrent Programming|||
 |42|06/11/19|W|Concurrent Programming|||
-|43|11/11/19|M|Concurrent Programming|||
-|44|13/11/19|W|Concurrent Programming||**Assignment 6 due**|
+|43|11/11/19|M|Concurrent Programming||**Assignment 6 due**|
+|44|13/11/19|W|Concurrent Programming|||
 |  |19/11/19|T|End Sem|||

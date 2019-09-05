@@ -47,17 +47,17 @@ Liaise with the TAs over email about where to meet.
 
 ## Grading
 
-| Item         | Due         | Weightage (%) |
-|--------------|-------------|--------------:|
-| Assignment 1 | Tu 19/08/19 | 5.0           |
-| Assignment 2 | Tu 03/09/19 | 5.0           |
-| Quiz 1       | Tu 04/09/19 | 15.0          |
-| Assignment 3 | Tu 30/09/19 | 5.0           |
-| Assignment 4 | Tu 15/10/19 | 5.0           |
-| Quiz 2       | Tu 16/10/19 | 15.0          |
-| Assignment 5 | Tu 29/10/19 | 5.0           |
-| Assignment 6 | Tu 13/11/19 | 5.0           |
-| End Sem      | Tu 19/11/19 | 40.0          |
+| Item         | Due      | Weightage (%) |
+|--------------|----------|--------------:|
+| Assignment 1 | 19/08/19 | 5.0           |
+| Assignment 2 | 03/09/19 | 5.0           |
+| Quiz 1       | 04/09/19 | 15.0          |
+| Assignment 3 | 30/09/19 | 5.0           |
+| Assignment 4 | 14/10/19 | 5.0           |
+| Quiz 2       | 16/10/19 | 15.0          |
+| Assignment 5 | 28/10/19 | 5.0           |
+| Assignment 6 | 11/11/19 | 5.0           |
+| End Sem      | 19/11/19 | 40.0          |
 
 <br/> 
 
