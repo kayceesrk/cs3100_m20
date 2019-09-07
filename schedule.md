@@ -30,19 +30,19 @@ interactive notebooks are accessed using docker container whose instructions are
 |  |30/08/19|F|Tutorial on Quiz1 portions|||
 |15|03/09/19|T|Lambda Calculus: STLC | [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec11/lec11.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec11/lec11.pdf)| **Assignment 2 due**, TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
 |  |04/09/19|W|**Quiz 1**|||
-|16|06/09/19|F|(Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html), [Imperative Programming, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html) |
-|17|13/09/19|F|Modular Programming|||
-|18|16/09/19|M|Modular Programming|||
-|19|17/09/19|T|Streams & Laziness|||
-|20|18/09/19|W|Memoization|||
-|21|20/09/19|F|Monads|||
-|22|23/09/19|M|Monads|||
-|23|24/09/19|T|GADTs|||
-|24|25/09/19|W|GADTs|||
-|25|30/09/19|M|Logic Programming||**Assignment 3 due**|
-|26|01/10/19|T|Logic Programming|||
-|27|04/10/19|F|Logic Programming|||
-|28|07/10/19|M|Logic Programming|||
+|16|06/09/19|F|Quiz 1 Review & (Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html), [Imperative Programming, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html) |
+|17|10/09/19|T|(Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html), [Imperative Programming, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html) |
+|18|13/09/19|F|Modular Programming|||
+|19|16/09/19|M|Modular Programming|||
+|20|17/09/19|T|Streams & Laziness|||
+|21|18/09/19|W|Memoization|||
+|22|20/09/19|F|Monads|||
+|23|23/09/19|M|Monads|||
+|24|24/09/19|T|GADTs|||
+|25|25/09/19|W|GADTs|||
+|26|30/09/19|M|Logic Programming||**Assignment 3 due**|
+|27|01/10/19|T|Logic Programming|||
+|28|04/10/19|F|Logic Programming|||
 |29|09/10/19|W|Logic Programming|||
 |30|14/10/19|M|Logic Programming||**Assignment 4 due**|
 |31|15/10/19|T|Logic Programming|||
