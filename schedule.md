@@ -31,7 +31,7 @@ interactive notebooks are accessed using docker container whose instructions are
 |15|03/09/19|T|Lambda Calculus: STLC | [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec11/lec11.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec11/lec11.pdf)| **Assignment 2 due**, TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
 |  |04/09/19|W|**Quiz 1**|||
 |16|06/09/19|F|(Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html), [Imperative Programming, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html) |
-|17|13/09/19|F|Modular Programming||Tuesday Timetable|
+|17|13/09/19|F|Modular Programming|||
 |18|16/09/19|M|Modular Programming|||
 |19|17/09/19|T|Streams & Laziness|||
 |20|18/09/19|W|Memoization|||
