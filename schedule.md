@@ -34,8 +34,8 @@ interactive notebooks are accessed using docker container whose instructions are
 |17|10/09/19|T|(Side) Effects| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec12/lec12.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec12/lec12.pdf) | [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html), [Imperative Programming, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html) |
 |18|13/09/19|F|Modular Programming|||
 |19|16/09/19|M|Modular Programming|||
-|20|17/09/19|T|Streams & Laziness|||
-|21|18/09/19|W|Memoization|||
+|20|17/09/19|T|Streams, Laziness & Memoization|||
+|21|18/09/19|W|Streams, Laziness & Memoization|||
 |22|20/09/19|F|Monads|||
 |23|23/09/19|M|Monads|||
 |24|24/09/19|T|GADTs|||
