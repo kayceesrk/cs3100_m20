@@ -60,4 +60,4 @@ interactive notebooks are accessed using docker container whose instructions are
 |41|06/11/19|W|Logic Programming|||
 |42|11/11/19|M|Logic Programming||**Assignment 6 due**|
 ||13/11/19|W|Summary & End Sem Review|||
-||19/11/19|T|End Sem|||
+||19/11/19|T|**End Sem**|||
