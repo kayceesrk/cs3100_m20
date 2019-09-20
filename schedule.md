@@ -44,19 +44,20 @@ interactive notebooks are accessed using docker container whose instructions are
 |26|01/10/19|T|Logic Programming|||
 |27|04/10/19|F|Logic Programming|||
 |28|09/10/19|W|Logic Programming|||
-|29|14/10/19|M|Logic Programming||**Assignment 4 due**|
+|29|11/10/19|F|Logic Programming|||
+|30|14/10/19|M|Logic Programming||**Assignment 4 due**|
 ||15/10/19|T|Tutorial on Quiz 2 portions|||
-|30|16/10/19|W|**Quiz 2**|||
-|31|18/10/19|F|Logic Programming|||
-|32|21/10/19|M|Logic Programming|||
-|33|22/10/19|T|Logic Programming|||
-|34|23/10/19|W|Logic Programming|||
-|35|28/10/19|M|Logic Programming||**Assignment 5 due**|
-|36|29/10/19|T|Logic Programming|||
-|37|30/10/19|W|Logic Programming|||
-|38|04/11/19|M|Logic Programming|||
-|39|05/11/19|T|Logic Programming|||
-|40|06/11/19|W|Logic Programming|||
-|41|11/11/19|M|Logic Programming||**Assignment 6 due**|
+|31|16/10/19|W|**Quiz 2**|||
+|32|18/10/19|F|Logic Programming|||
+|33|21/10/19|M|Logic Programming|||
+|34|22/10/19|T|Logic Programming|||
+|35|23/10/19|W|Logic Programming|||
+|36|28/10/19|M|Logic Programming||**Assignment 5 due**|
+|37|29/10/19|T|Logic Programming|||
+|38|30/10/19|W|Logic Programming|||
+|39|04/11/19|M|Logic Programming|||
+|40|05/11/19|T|Logic Programming|||
+|41|06/11/19|W|Logic Programming|||
+|42|11/11/19|M|Logic Programming||**Assignment 6 due**|
 ||13/11/19|W|Summary & End Sem Review|||
-|  |19/11/19|T|End Sem|||
+||19/11/19|T|End Sem|||
