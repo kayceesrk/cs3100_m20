@@ -40,23 +40,23 @@ interactive notebooks are accessed using docker container whose instructions are
 |23|23/09/19|M|Monads|||
 |24|24/09/19|T|GADTs|||
 |25|25/09/19|W|GADTs|||
-|26|30/09/19|M|Logic Programming||**Assignment 3 due**|
-|27|01/10/19|T|Logic Programming|||
-|28|04/10/19|F|Logic Programming|||
-|29|09/10/19|W|Logic Programming|||
-|30|14/10/19|M|Logic Programming||**Assignment 4 due**|
-|31|15/10/19|T|Logic Programming|||
-|32|16/10/19|W|**Quiz 2**|||
-|33|18/10/19|F|Logic Programming|||
-|34|21/10/19|M|Logic Programming|||
-|35|22/10/19|T|Logic Programming|||
-|36|23/10/19|W|Logic Programming|||
-|37|28/10/19|M|Logic Programming||**Assignment 5 due**|
-|38|29/10/19|T|Logic Programming|||
-|39|30/10/19|W|Concurrent Programming|||
-|40|04/11/19|M|Concurrent Programming|||
-|41|05/11/19|T|Concurrent Programming|||
-|42|06/11/19|W|Concurrent Programming|||
-|43|11/11/19|M|Concurrent Programming||**Assignment 6 due**|
-|44|13/11/19|W|Concurrent Programming|||
+||30/09/19|M|No class : Convocation ||**Assignment 3 due**|
+|26|01/10/19|T|Logic Programming|||
+|27|04/10/19|F|Logic Programming|||
+|28|09/10/19|W|Logic Programming|||
+|29|14/10/19|M|Logic Programming||**Assignment 4 due**|
+||15/10/19|T|Tutorial on Quiz 2 portions|||
+|30|16/10/19|W|**Quiz 2**|||
+|31|18/10/19|F|Logic Programming|||
+|32|21/10/19|M|Logic Programming|||
+|33|22/10/19|T|Logic Programming|||
+|34|23/10/19|W|Logic Programming|||
+|35|28/10/19|M|Logic Programming||**Assignment 5 due**|
+|36|29/10/19|T|Logic Programming|||
+|37|30/10/19|W|Logic Programming|||
+|38|04/11/19|M|Logic Programming|||
+|39|05/11/19|T|Logic Programming|||
+|40|06/11/19|W|Logic Programming|||
+|41|11/11/19|M|Logic Programming||**Assignment 6 due**|
+||13/11/19|W|Summary & End Sem Review|||
 |  |19/11/19|T|End Sem|||
