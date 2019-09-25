@@ -38,26 +38,27 @@ interactive notebooks are accessed using docker container whose instructions are
 |21|18/09/19|W|Streams, Laziness & Memoization| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec14/lec14.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec14/lec14.pdf) | [Chapters 8.1 to 8.4, 8.27 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/infinite.html), [Laziness & Memoization, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5) |
 |22|20/09/19|F|Monads| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec15/lec15.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec15/lec15.pdf) | [Chapters 8.22 to 8.26  in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/monads.html), [Cambridge Computer Lab: AFP: Monads](https://www.cl.cam.ac.uk/teaching/1516/L28/monads-etc.pdf) |  
 |23|23/09/19|M|Monads| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec15/lec15.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec15/lec15.pdf) | [Chapters 8.22 to 8.26  in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/monads.html), [Cambridge Computer Lab: AFP: Monads](https://www.cl.cam.ac.uk/teaching/1516/L28/monads-etc.pdf) |  
-|24|24/09/19|T|GADTs|||
-|25|25/09/19|W|GADTs|||
+|24|24/09/19|T|GADTs|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec16/lec16.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec16/lec16.pdf) ||
+|25|25/09/19|W|GADTs|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec16/lec16.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec16/lec16.pdf) ||
+|26|27/09/19|F|GADTs|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec16/lec16.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec16/lec16.pdf) ||
 ||30/09/19|M|No class : Convocation ||**Assignment 3 due**|
-|26|01/10/19|T|Logic Programming|||
-|27|09/10/19|W|Logic Programming|||
-|28|11/10/19|F|Logic Programming|||
-|29|14/10/19|M|Logic Programming||**Assignment 4 due**|
+|27|01/10/19|T|Logic Programming|||
+|28|09/10/19|W|Logic Programming|||
+|29|11/10/19|F|Logic Programming|||
+|30|14/10/19|M|Logic Programming||**Assignment 4 due**|
 ||15/10/19|T|Tutorial on Quiz 2 portions|||
-|30|16/10/19|W|**Quiz 2**|||
-|31|18/10/19|F|Quiz 2 review & Logic Programming|||
-|32|21/10/19|M|Logic Programming|||
-|33|22/10/19|T|Logic Programming|||
-|34|23/10/19|W|Logic Programming|||
-|35|25/10/19|F|Logic Programming|||
-|36|28/10/19|M|Logic Programming||**Assignment 5 due**|
-|37|29/10/19|T|Logic Programming|||
-|38|30/10/19|W|Logic Programming|||
-|39|04/11/19|M|Logic Programming|||
-|40|05/11/19|T|Logic Programming|||
-|41|06/11/19|W|Logic Programming|||
-|42|11/11/19|M|Logic Programming||**Assignment 6 due**|
+|31|16/10/19|W|**Quiz 2**|||
+|32|18/10/19|F|Quiz 2 review & Logic Programming|||
+|33|21/10/19|M|Logic Programming|||
+|34|22/10/19|T|Logic Programming|||
+|35|23/10/19|W|Logic Programming|||
+|36|25/10/19|F|Logic Programming|||
+|37|28/10/19|M|Logic Programming||**Assignment 5 due**|
+|38|29/10/19|T|Logic Programming|||
+|39|30/10/19|W|Logic Programming|||
+|40|04/11/19|M|Logic Programming|||
+|41|05/11/19|T|Logic Programming|||
+|42|06/11/19|W|Logic Programming|||
+|43|11/11/19|M|Logic Programming||**Assignment 6 due**|
 ||13/11/19|W|Summary & End Sem Review|||
 ||19/11/19|T|**End Sem**|||
