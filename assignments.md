@@ -5,7 +5,7 @@ permalink: /assignments/
 ---
 
 All assignments should be submitted through the [course
-moodle](https://courses.iitm.ac.in/course/view.php?id=4939). 
+moodle](https://courses.iitm.ac.in/course/view.php?id=4939).
 
 | Assignment | Due Date |
 |:------------:|----------|
@@ -13,6 +13,7 @@ moodle](https://courses.iitm.ac.in/course/view.php?id=4939).
 | [1]({{ site.baseurl }}/assignments/assignment1.ipynb) | 19/08/19 |
 | [2]({{ site.baseurl }}/assignments/assignment2.zip) | 03/09/19 |
 | [3]({{ site.baseurl }}/assignments/assignment3.ipynb) | 30/09/19 |
+| [4]({{ site.baseurl }}/assignments/assignment4.ipynb) | 14/10/19 |
 
 <br>
 
