@@ -1,5 +1,5 @@
 FROM ocaml/opam2
-RUN sudo apt update
+RUN sudo apt update --fix-missing
 RUN sudo apt install -y m4 perl libgmp-dev pkg-config zlib1g-dev python python-pip wget
 RUN echo "deb http://download.opensuse.org/repositories/network:/messaging:/zeromq:/release-stable/Debian_9.0/ ./" | sudo tee -a /etc/apt/sources.list
 RUN wget https://download.opensuse.org/repositories/network:/messaging:/zeromq:/release-stable/Debian_9.0/Release.key -O- | sudo apt-key add
@@ -21,7 +21,8 @@ RUN sudo add-apt-repository -y ppa:swi-prolog/stable
 RUN sudo apt-get --allow-unauthenticated update || true
 RUN sudo apt install -y swi-prolog
 
-RUN pip install jswipl RISE
+RUN pip install RISE
+RUN pip install git+https://github.com/kayceesrk/jupyter-swi-prolog.git
 RUN mkdir ~/.local/share/jupyter/kernels/jswipl
 RUN wget https://raw.githubusercontent.com/targodan/jupyter-swi-prolog/master/kernel.json -P ~/.local/share/jupyter/kernels/jswipl
 
