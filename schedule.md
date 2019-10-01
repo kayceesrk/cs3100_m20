@@ -43,8 +43,8 @@ interactive notebooks are accessed using docker container whose instructions are
 |26|27/09/19|F|GADTs|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec16/lec16.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec16/lec16.pdf) | [UCam AFP Course: GADTs](https://www.cl.cam.ac.uk/teaching/1415/L28/gadts.pdf) |
 ||30/09/19|M|No class : Convocation ||**Assignment 3 due**|
 |27|01/10/19|T|Prolog Basics|||
-|28|09/10/19|W|Logic Programming|||
-|29|11/10/19|F|Logic Programming|||
+|28|09/10/19|W|Logical Foundations|||
+|29|11/10/19|F|Solving a Logic Puzzle|||
 |30|14/10/19|M|Logic Programming||**Assignment 4 due**|
 ||15/10/19|T|Tutorial on Quiz 2 portions|||
 |31|16/10/19|W|**Quiz 2**|||
