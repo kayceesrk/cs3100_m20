@@ -46,9 +46,9 @@ interactive notebooks are accessed using docker container whose instructions are
 |28|09/10/19|W|Logical Foundations| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec18/lec18.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec18/lec18.pdf) | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
 |29|11/10/19|F|Logical Foundations| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec18/lec18.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec18/lec18.pdf) | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
 |30|14/10/19|M|Solving a Logic Puzzle||**Assignment 4 due**|
-|31|15/10/19|T|Programming With Lists|||
+|31|15/10/19|T|Quiz 2 review|||
 ||16/10/19|W|**Quiz 2**|||
-|32|18/10/19|F|Quiz 2 review & Programming with Lists|||
+|32|18/10/19|F|Quiz 2 solutions review & Programming with Lists|||
 |33|21/10/19|M|Programming with Lists|||
 |34|22/10/19|T|Control in Prolog|||
 |35|23/10/19|W|Control in Prolog|||
