@@ -1,9 +1,14 @@
 FROM ocaml/opam2
 RUN sudo apt update --fix-missing
-RUN sudo apt install -y m4 perl libgmp-dev pkg-config zlib1g-dev python python-pip wget
+RUN sudo apt install -y m4 perl libgmp-dev pkg-config zlib1g-dev python python-pip wget vim tmux
 RUN echo "deb http://download.opensuse.org/repositories/network:/messaging:/zeromq:/release-stable/Debian_9.0/ ./" | sudo tee -a /etc/apt/sources.list
 RUN wget https://download.opensuse.org/repositories/network:/messaging:/zeromq:/release-stable/Debian_9.0/Release.key -O- | sudo apt-key add
 RUN sudo apt install -y libzmq3-dev
+
+RUN sudo apt install -y software-properties-common
+RUN sudo add-apt-repository -y ppa:swi-prolog/stable
+RUN sudo apt-get --allow-unauthenticated update || true
+RUN sudo apt install -y swi-prolog
 
 RUN pip install jupyter
 RUN opam remote add upstream https://github.com/ocaml/opam-repository.git && \
@@ -16,17 +21,11 @@ RUN sudo mkdir /usr/local/share/jupyter
 RUN sudo chmod a+x /usr/local/share/jupyter
 RUN python /home/opam/.local/bin/jupyter kernelspec install --name ocaml-jupyter "$(opam config var share)/jupyter" --user
 
-RUN sudo apt install -y software-properties-common
-RUN sudo add-apt-repository -y ppa:swi-prolog/stable
-RUN sudo apt-get --allow-unauthenticated update || true
-RUN sudo apt install -y swi-prolog
-
+RUN sudo --set-home python -m pip install --ignore-installed configparser==3.5.0 # XXX KC: Temp Fix
 RUN pip install git+https://github.com/kayceesrk/jupyter-swi-prolog.git
 RUN pip install RISE
 RUN mkdir ~/.local/share/jupyter/kernels/jswipl
 RUN wget https://raw.githubusercontent.com/targodan/jupyter-swi-prolog/master/kernel.json -P ~/.local/share/jupyter/kernels/jswipl
-
-RUN sudo apt install -y vim tmux
 
 COPY .ocamlinit /home/opam/.ocamlinit
 ENV PATH $PATH:/home/opam/.local/bin
