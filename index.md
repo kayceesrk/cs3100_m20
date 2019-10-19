@@ -33,14 +33,13 @@ is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-note
 * **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
 * **TAs:** 
 
-| Name | Email | Office Hours |
-|------|-------|--------------|
-| M Prasanna Kumar | CS15B050@smail.iitm.ac.in | |
-| Shashank Shekhar Dubey | shashank.shekhardubey@gmail.com | Tuesday 14:00 to 15:00 |
-| Atul Dhiman | CS18M014@smail.iitm.ac.in | |
-| Diptanshu Kakwani | CS18S019@smail.iitm.ac.in | Friday 11:00 to 12:00 | 
-| Padhiyar Sumit Kishorkumar | CS18S042@smail.iitm.ac.in | Monday 12:00 to 13:00 |
-| Abhijeet Nijampurkar | CS18m007@smail.iitm.ac.in | |
+| Name | Email | 
+|------|-------|
+| Shashank Shekhar Dubey | shashank.shekhardubey@gmail.com |
+| Atul Dhiman | CS18M014@smail.iitm.ac.in |
+| Diptanshu Kakwani | CS18S019@smail.iitm.ac.in |
+| Padhiyar Sumit Kishorkumar | CS18S042@smail.iitm.ac.in |
+| Abhijeet Nijampurkar | CS18m007@smail.iitm.ac.in |
 
 <br>
 Liaise with the TAs over email about where to meet. 
@@ -55,7 +54,7 @@ Liaise with the TAs over email about where to meet.
 | Assignment 3 | 30/09/19 | 5.0           |
 | Assignment 4 | 14/10/19 | 5.0           |
 | Quiz 2       | 16/10/19 | 15.0          |
-| Assignment 5 | 28/10/19 | 5.0           |
+| Assignment 5 | 30/10/19 | 5.0           |
 | Assignment 6 | 11/11/19 | 5.0           |
 | End Sem      | 19/11/19 | 40.0          |
 

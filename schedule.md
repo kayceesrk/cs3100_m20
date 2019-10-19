@@ -53,9 +53,9 @@ interactive notebooks are accessed using docker container whose instructions are
 |34|22/10/19|T|Control in Prolog|||
 |35|23/10/19|W|Control in Prolog|||
 |36|25/10/19|F|Mutable(?) data structures|||
-|37|28/10/19|M|Logic Programming||**Assignment 5 due**|
+|37|28/10/19|M|Logic Programming|||
 |38|29/10/19|T|Logic Programming|||
-|39|30/10/19|W|Logic Programming|||
+|39|30/10/19|W|Logic Programming||**Assignment 5 due**|
 |40|04/11/19|M|Logic Programming|||
 |41|05/11/19|T|Logic Programming|||
 |42|06/11/19|W|Logic Programming|||
