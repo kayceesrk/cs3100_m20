@@ -48,12 +48,12 @@ interactive notebooks are accessed using docker container whose instructions are
 |30|14/10/19|M|Solving a Logic Puzzle| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec19/lec19.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec19/lec19.pdf) |**Assignment 4 due (extended to 21/10) **|
 |31|15/10/19|T|Quiz 2 review|||
 ||16/10/19|W|**Quiz 2**|||
-|32|18/10/19|F|Quiz 2 solutions review & Programming with Lists|||
-|33|21/10/19|M|Programming with Lists|||
+|32|18/10/19|F|Quiz 2 solutions review & Programming with Lists|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec20/lec20.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec20/lec20.pdf)||
+|33|21/10/19|M|Programming with Lists|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec20/lec20.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec20/lec20.pdf)||
 |34|22/10/19|T|Control in Prolog|||
 |35|23/10/19|W|Control in Prolog|||
 |36|25/10/19|F|Mutable(?) data structures|||
-|37|28/10/19|M|Logic Programming|||
+|37|28/10/19|M|Generate and Test|||
 |38|29/10/19|T|Logic Programming|||
 |39|30/10/19|W|Logic Programming||**Assignment 5 due**|
 |40|04/11/19|M|Logic Programming|||
