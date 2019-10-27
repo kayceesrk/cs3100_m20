@@ -35,4 +35,6 @@ RUN pip install git+https://github.com/kayceesrk/egal.git
 RUN jupyter-nbextension install egal --py --user
 RUN jupyter-nbextension enable egal --py --user
 
+RUN sudo apt install sqlite3
+
 WORKDIR /lectures

@@ -49,15 +49,15 @@ interactive notebooks are accessed using docker container whose instructions are
 |31|15/10/19|T|Quiz 2 review|||
 ||16/10/19|W|**Quiz 2**|||
 |32|18/10/19|F|Quiz 2 solutions review & Programming with Lists|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec20/lec20.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec20/lec20.pdf)||
-|33|21/10/19|M|Programming with Lists|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec20/lec20.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec20/lec20.pdf)||
-|34|22/10/19|T|Control in Prolog|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec21/lec21.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec21/lec21.pdf)||
-|35|23/10/19|W|Control in Prolog|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec21/lec21.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec21/lec21.pdf)||
-|36|25/10/19|F|Mutable(?) data structures|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec22/lec22.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec22/lec22.pdf)||
-|37|28/10/19|M|Generate and Test|||
-|38|29/10/19|T|Cuts and Negation|||
-|39|30/10/19|W|Cuts and Negation||**Assignment 5 due**|
-|40|04/11/19|M|Countdown, Type Inference and Program Synthesis|||
-|41|05/11/19|T||||
+|33|21/10/19|M|Programming with Lists|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec20/lec20.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec20/lec20.pdf)|[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|34|22/10/19|T|Control in Prolog|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec21/lec21.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec21/lec21.pdf)|[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|35|23/10/19|W|Control in Prolog|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec21/lec21.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec21/lec21.pdf)|[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|36|25/10/19|F|Mutable(?) data structures|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec22/lec22.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec22/lec22.pdf)|[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|37|28/10/19|M|Generate and Test||[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|38|29/10/19|T|Cuts and Negation||[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|39|30/10/19|W|Cuts and Negation||**Assignment 5 due**, [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|40|04/11/19|M|Countdown, Type Inference and Program Synthesis||[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+|41|05/11/19|T|Logic Programming|||
 |42|06/11/19|W|Logic Programming|||
 |43|11/11/19|M|Logic Programming||**Assignment 6 due**|
 ||13/11/19|W|Summary & End Sem Review|||
