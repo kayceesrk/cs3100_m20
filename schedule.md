@@ -54,11 +54,11 @@ interactive notebooks are accessed using docker container whose instructions are
 |35|23/10/19|W|Control in Prolog|[\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec21/lec21.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec21/lec21.pdf)|[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 4 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 |36|25/10/19|F|Mutable(?) data structures| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec22/lec22.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec22/lec22.pdf) |[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 15 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 |37|28/10/19|M|Generate and Test| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec23/lec23.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec23/lec23.pdf) |[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 14.1 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-|38|29/10/19|T|Cuts and Negation| | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 11 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-|39|30/10/19|W|Countdown, Type Inference and Program Synthesis||**Assignment 5 due**|
-|40|04/11/19|M|Graph Search|||
-|41|05/11/19|T|Database Programming|||
-|42|06/11/19|W|Logic Programming|||
-|43|11/11/19|M|Logic Programming||**Assignment 6 due**|
+|38|29/10/19|T|Cuts and Negation| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec24/lec24.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec24/lec24.pdf)| [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 11 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+|39|30/10/19|W|Countdown, Type Inference and Program Synthesis| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec25/lec25.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec25/lec25.pdf) |**Assignment 5 due**|
+|40|04/11/19|M|Graph Search|| [Chapter 14.2 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+|41|05/11/19|T|Database Programming|| |
+|42|06/11/19|W|Logic Programming||  |
+|43|11/11/19|M|Logic Programming|  |**Assignment 6 due**|
 ||13/11/19|W|Summary & End Sem Review|||
 ||19/11/19|T|**End Sem**|||
