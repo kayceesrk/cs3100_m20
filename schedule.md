@@ -56,8 +56,8 @@ interactive notebooks are accessed using docker container whose instructions are
 |37|28/10/19|M|Generate and Test| [\[notebook\]](https://github.com/kayceesrk/cs3100_f19/blob/gh-pages/lectures/lec23/lec23.ipynb) [\[pdf\]]({{site.baseurl}}/lectures/lec23/lec23.pdf) |[Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 14.1 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 |38|29/10/19|T|Cuts and Negation| | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 11 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 |39|30/10/19|W|Countdown, Type Inference and Program Synthesis||**Assignment 5 due**|
-|40|04/11/19|M|Database Programming|||
-|41|05/11/19|T|Logic Programming|||
+|40|04/11/19|M|Graph Search|||
+|41|05/11/19|T|Database Programming|||
 |42|06/11/19|W|Logic Programming|||
 |43|11/11/19|M|Logic Programming||**Assignment 6 due**|
 ||13/11/19|W|Summary & End Sem Review|||
