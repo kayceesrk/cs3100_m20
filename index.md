@@ -39,7 +39,6 @@ is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-note
 | Atul Dhiman | CS18M014@smail.iitm.ac.in |
 | Diptanshu Kakwani | CS18S019@smail.iitm.ac.in |
 | Padhiyar Sumit Kishorkumar | CS18S042@smail.iitm.ac.in |
-| Abhijeet Nijampurkar | CS18m007@smail.iitm.ac.in |
 
 <br>
 Liaise with the TAs over email about where to meet. 
