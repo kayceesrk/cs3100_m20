@@ -1,12 +1,12 @@
-# CS3100: Paradigms of Programming (IITM Fall 2019)
+# CS3100: Paradigms of Programming (IITM Monsoon 2020)
 
 ## Running the Jupyter notebooks
 
 Install [docker](https://docs.docker.com/install/#supported-platforms) for your platform.
 
 ```bash
-$ git clone https://github.com/kayceesrk/cs3100_f19
-$ cd cs3100_f19/lectures
+$ git clone https://github.com/kayceesrk/cs3100_m20
+$ cd cs3100_m20/lectures
 $ docker run -it -p 8888:8888 -v `pwd`:/lectures kayceesrk/cs3100_iitm:latest
 $ jupyter notebook --ip=0.0.0.0
 ```

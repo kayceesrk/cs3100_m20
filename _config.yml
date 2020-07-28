@@ -1,10 +1,10 @@
 # Site settings
-title: CS3100 Fall 2019
+title: CS3100 Monsoon 2020
 subtitle: Paradigms of Programming
-baseurl: "/cs3100_f19" # the subpath of your site, e.g. /blog/
+baseurl: "/cs3100_m20" # the subpath of your site, e.g. /blog/
 url: "http://kayceesrk.github.io" # the base hostname & protocol for your site
 syllabus: "http://www.cse.iitm.ac.in/course_details.php?arg=MTk="
-githubdir: "kayceesrk/cs3100_f19"
+githubdir: "kayceesrk/cs3100_m20"
 
 # Author/user information
 email: kcsrk@iitm.ac.in

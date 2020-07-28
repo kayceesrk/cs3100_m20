@@ -8,7 +8,7 @@ layout: default
 
 </div>
 
-{% include image.html url="/cs3100_f19/_images/paradigms.png"
+{% include image.html url="/cs3100_m20/_images/paradigms.png"
    href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"
    caption="Don't worry. We will only cover a small subset of this." width=800 align="center" %}
 
@@ -22,7 +22,7 @@ description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
 
 The course will be primarily taught through interactive [Jupyter
 Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
-is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).
+is found [here](https://github.com/kayceesrk/cs3100_m20#running-the-jupyter-notebooks).
 
 ## Essential Details
 

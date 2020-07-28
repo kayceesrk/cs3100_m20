@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kc@kcsrk.info"]
 
   spec.summary       = "CS3100 IITM Theme"
-	spec.homepage      = "http://cs3100_f19.github.io"
+	spec.homepage      = "http://cs3100_m20.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
