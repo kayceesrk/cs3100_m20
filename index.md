@@ -27,7 +27,7 @@ is found [here](https://github.com/kayceesrk/cs3100_m20#running-the-jupyter-note
 ## Essential Details
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
-* **Where:** CS34
+* **Where:** ~CS34~ Google Meet
 * **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F
   13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
 * **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
@@ -35,10 +35,6 @@ is found [here](https://github.com/kayceesrk/cs3100_m20#running-the-jupyter-note
 
 | Name | Email | 
 |------|-------|
-| Shashank Shekhar Dubey | shashank.shekhardubey@gmail.com |
-| Atul Dhiman | CS18M014@smail.iitm.ac.in |
-| Diptanshu Kakwani | CS18S019@smail.iitm.ac.in |
-| Padhiyar Sumit Kishorkumar | CS18S042@smail.iitm.ac.in |
 
 <br>
 Liaise with the TAs over email about where to meet. 
@@ -47,15 +43,6 @@ Liaise with the TAs over email about where to meet.
 
 | Item         | Due      | Weightage (%) |
 |--------------|----------|--------------:|
-| Assignment 1 | 19/08/19 | 5.0           |
-| Assignment 2 | 03/09/19 | 5.0           |
-| Quiz 1       | 04/09/19 | 15.0          |
-| Assignment 3 | 30/09/19 | 5.0           |
-| Assignment 4 | 14/10/19 | 5.0           |
-| Quiz 2       | 16/10/19 | 15.0          |
-| Assignment 5 | 30/10/19 | 5.0           |
-| Assignment 6 | 11/11/19 | 5.0           |
-| End Sem      | 19/11/19 | 40.0          |
 
 <br/> 
 
