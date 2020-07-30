@@ -24,6 +24,10 @@ The course will be primarily taught through interactive [Jupyter
 Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
 is found [here](https://github.com/kayceesrk/cs3100_m20#running-the-jupyter-notebooks).
 
+You can have a look at the [previous offering of the
+course](http://kcsrk.info/cs3100_f19/) for the list of topics we are likely to
+cover.
+
 ## Essential Details
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
