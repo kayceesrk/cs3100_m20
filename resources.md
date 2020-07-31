@@ -55,7 +55,7 @@ through which the course is taught. Docker is a free software and is supported
 on all major platforms. The installation instructions for Docker is available
 [here](https://docs.docker.com/install/#supported-platforms). The instructions
 for running the Jupyter notebooks is
-[here](https://github.com/kayceesrk/cs3100_f19).
+[here](https://github.com/kayceesrk/cs3100_m20).
 
 ## OCaml
 
