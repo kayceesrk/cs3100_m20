@@ -35,10 +35,13 @@ cover.
 * **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F
   13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
 * **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
+* **Slack**: http://cs3100m20iitm.slack.com/
+* **Moodle**: https://courses.iitm.ac.in/course/view.php?id=6280
 * **TAs:** 
 
 | Name | Email | 
 |------|-------|
+| TBA  | TBA   |
 
 <br>
 Liaise with the TAs over email about where to meet. 
@@ -47,6 +50,7 @@ Liaise with the TAs over email about where to meet.
 
 | Item         | Due      | Weightage (%) |
 |--------------|----------|--------------:|
+| TBA          | TBA      | TBA           |
 
 <br/> 
 
@@ -57,3 +61,4 @@ The course borrows some of the materials from
 * [Cornell: cs3110](http://www.cs.cornell.edu/courses/cs3110/2019sp/)
 * [University of Cambridge Computer Laboratory: Prolog](https://www.cl.cam.ac.uk/teaching/1819/Prolog/)
 * [University of Cambridge Computer Laboratory: Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1718/L28/)
+* [University of Washington: CS341](https://courses.cs.washington.edu/courses/cse341/20sp/)
