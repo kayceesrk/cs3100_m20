@@ -13,3 +13,10 @@ $ jupyter notebook --ip=0.0.0.0
 
 Copy and paste the URL displayed into your browser. If you save the changes to
 the notebook, they are saved locally. 
+
+If you get a permission denied error with docker, try running the docker command
+with `sudo`:
+
+```bash
+$ sudo docker run -it -p 8888:8888 -v `pwd`:/lectures kayceesrk/cs3100_iitm:latest
+```
