@@ -72,6 +72,8 @@ SWI-Prolog installation instructions are [here](https://www.swi-prolog.org/Downl
 ## CS3100 Virtual Box Disk Image
 
 An Ubuntu virtual box disk image (VDI) with the jupyter notebook is available
-[here](https://drive.google.com/file/d/1YSavbv5lu6-bJvBaUau7bbuh63_TO0u9/view).
-The password is `cs3100`. The course git repo has been cloned under `cs3100` in
-the home directory.
+[here](https://drive.google.com/drive/folders/1bak0M85dHd6Avvn1AANdFKBaYpomIuzT?usp=sharing).
+The password is `cs3100_m20`. The course git repo has been cloned under
+`cs3100_m20` in the home directory.  As you go through the course, you will have
+to do `git pull` in the `cs3100_m20` directory to get the latest updates from
+upstream.
