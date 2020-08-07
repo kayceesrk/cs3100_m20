@@ -1,5 +1,7 @@
 # CS3100: Paradigms of Programming (IITM Monsoon 2020)
 
+Hello, world!
+
 ## Running the Jupyter notebooks
 
 Install [docker](https://docs.docker.com/install/#supported-platforms) for your platform.
