@@ -4,17 +4,53 @@ title: Resources
 permalink: /resources/
 ---
 
+# Software
+
+The course comes with a handy [docker
+image](https://hub.docker.com/r/kayceesrk/cs3100_iitm) which contains the
+necessary software to run OCaml, SWI-Prolog and the Jupyter notebooks, primarily
+through which the course is taught. The instructions for running the Jupyter
+notebooks is [here](https://github.com/kayceesrk/cs3100_m20).
+
+## Docker
+
+Docker is a free software and is supported
+on all major platforms. The installation instructions for Docker is available
+[here](https://docs.docker.com/install/#supported-platforms). 
+
+## CS3100 Virtual Box Disk Image
+
+If the Docker setup does not work for you for some reason, then an Ubuntu
+virtual box disk image (VDI) with the jupyter notebook is available
+[here](https://drive.google.com/drive/folders/1bak0M85dHd6Avvn1AANdFKBaYpomIuzT?usp=sharing).
+The password is `cs3100_m20`. The course git repo has been cloned under
+`cs3100_m20` in the home directory.  As you go through the course, you will have
+to do `git pull` in the `cs3100_m20` directory to get the latest updates from
+upstream.
+
+## OCaml
+
+My recommendation is to use the Jupyter notebook for the class and not install
+OCaml on your host machine. If you still want to, I would recommend installing
+OCaml through the OPAM package manager. The installation instructions for OPAM
+is [here](https://opam.ocaml.org/doc/Install.html#Binary-distribution).
+
+## SWI-Prolog
+
+SWI-Prolog installation instructions are
+[here](https://www.swi-prolog.org/Download.html).
+
 # Learning
 
 ## OCaml
 
 ### Recommended 
 
+* **Functional Programming in OCaml**, Cornell CS3110 textbook. Freely available
+  [here](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/). 
 * **Real World OCaml**, by Yaron Minsky, Anil Madhavapeddy and Jason Hickey. The
   book is freely available at
   [dev.realworldocaml.org](https://dev.realworldocaml.org/).
-* **Functional Programming in OCaml**, Cornell CS3110 textbook. Freely available
-  [here](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/). 
 
 ### References
 * [**OCaml Manual**](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
@@ -43,37 +79,3 @@ permalink: /resources/
 * **The Art of Prolog, 2nd edition, Advanced Programming Techniques**, by Leon
   Sterling and Ehud Y. Shapiro. Available for free
   [here](https://mitpress.mit.edu/books/art-prolog-second-edition).
-
-# Software
-
-## Docker
-
-The course comes with a handy [docker
-image](https://hub.docker.com/r/kayceesrk/cs3100_iitm) which contains the
-necessary software to run OCaml, SWI-Prolog and the Jupyter notebooks, primarily
-through which the course is taught. Docker is a free software and is supported
-on all major platforms. The installation instructions for Docker is available
-[here](https://docs.docker.com/install/#supported-platforms). The instructions
-for running the Jupyter notebooks is
-[here](https://github.com/kayceesrk/cs3100_m20).
-
-## OCaml
-
-OCaml installation instructions are covered in the [Real World OCaml
-book](https://dev.realworldocaml.org/install.html). I would recommend installing
-OPAM (OCaml Package Manager) with instructions from the [opam
-website](https://opam.ocaml.org/doc/Install.html) and switching to OCaml version
-4.07.1.
-
-## SWI-Prolog
-
-SWI-Prolog installation instructions are [here](https://www.swi-prolog.org/Download.html).
-
-## CS3100 Virtual Box Disk Image
-
-An Ubuntu virtual box disk image (VDI) with the jupyter notebook is available
-[here](https://drive.google.com/drive/folders/1bak0M85dHd6Avvn1AANdFKBaYpomIuzT?usp=sharing).
-The password is `cs3100_m20`. The course git repo has been cloned under
-`cs3100_m20` in the home directory.  As you go through the course, you will have
-to do `git pull` in the `cs3100_m20` directory to get the latest updates from
-upstream.
