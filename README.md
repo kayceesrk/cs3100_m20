@@ -11,10 +11,10 @@ $ docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:latest
 $ jupyter notebook --ip=0.0.0.0
 ```
 
-Copy and paste the URL displayed into your browser. If you save the changes to
-the notebook, they are saved locally.  As you go through the course, you will
-have to do `git pull` in the `cs3100_m20` directory to get the latest updates
-from upstream.
+Copy and paste the diplayed URL that starts with `http://127.0.0.1:8888` into
+your browser. If you save the changes to the notebook, they are saved locally.
+As you go through the course, you will have to do `git pull` in the
+`cs3100_m20` directory to get the latest updates from upstream.
 
 ## Linux
 
