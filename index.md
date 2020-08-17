@@ -31,12 +31,12 @@ cover.
 ## Essential Details
 
 * **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
-* **Where:** ~CS34~ Google Meet
-* **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F
-  13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
+* **Where:** Google Meet (link shared privately to the students)
+* **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F 13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
 * **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
 * **Slack**: [http://cs3100m20iitm.slack.com/](http://cs3100m20iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
 * **Moodle**: [https://courses.iitm.ac.in/course/view.php?id=6280](https://courses.iitm.ac.in/course/view.php?id=6280)
+* **Video Lectures**: are available on [Google Drive](https://drive.google.com/drive/folders/1k6CWrKhLtbBEfx7suQ9du6af8n8PuwnB?usp=sharing).
 * **TAs:** 
 
 | Name | Email | 
