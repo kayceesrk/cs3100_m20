@@ -7,10 +7,11 @@ permalink: /assignments/
 All assignments should be submitted through the [course
 moodle](https://courses.iitm.ac.in/course/view.php?id=4939).
 
-| Assignment | Due Date |
+| Assignment   | Due Date |
 |:------------:|----------|
 | 0 | 21/08/20 |  
 | 1 | 31/08/20 | 
+
 <br>
 
 ## Assignment late penalties
