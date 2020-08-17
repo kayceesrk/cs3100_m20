@@ -48,9 +48,11 @@ Liaise with the TAs over email about where to meet.
 
 ## Grading
 
-| Item         | Due      | Weightage (%) |
-|--------------|----------|--------------:|
-| TBA          | TBA      | TBA           |
+| Item          | Weightage (%) |
+|---------------|---------------|
+| 7 assignments | 49% |
+| EndSem        | 50% |
+| Class Participation | 1% |
 
 <br/> 
 
