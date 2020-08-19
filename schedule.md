@@ -11,8 +11,8 @@ permalink: /schedule/
 | 3 | Expressions | 04/08, 05/08 | [Chapter 2 CS3110 textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html) | 
 | 4 | Functions | 05/08, 10/08, 11/08 | [Chapter 2 CS3110 textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/basics/intro.html) |  
 | 5 | Datatypes | 12/08, 14/08 | [Chapter 3 in CS3110 textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html), Further reading: [Hillel Wayne, Constructive vs Predicative Data](https://www.hillelwayne.com/post/constructive/) |  
-| 6 | Pattern Matching | 14/08, 17/08, 18/08 | [Chapter 3 in CS3110 textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |  
-| 7 | Higher-order programming| | [Chapter 4 in CS3110 textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
+| 6 | Pattern Matching | 14/08, 17/08, 18/08, 19/08 | [Chapter 3 in CS3110 textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |  
+| 7 | Higher-order programming | 19/08 | [Chapter 4 in CS3110 textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
 
 <br/>
 
