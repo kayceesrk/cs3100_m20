@@ -41,7 +41,11 @@ cover.
 
 | Name | Email | 
 |------|-------|
-| TBA  | TBA   |
+| Vimala S | cs19d013@smail.iitm.ac.in |
+| Sumit Padhiyar | sumitpad@cse.iitm.ac.in |
+| Girish Balakrishnan | cs19d012@smail.iitm.ac.in | 
+| Harsh Panchal | cs19m026@smail.iitm.ac.in | 
+| Kodi Kalyan Srinivas | cs19m032@smail.iitm.ac.in |
 
 <br>
 Liaise with the TAs over email about where to meet. 
