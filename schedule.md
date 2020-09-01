@@ -15,7 +15,8 @@ permalink: /schedule/
 | 7 | Higher-order programming | 19/08, 21/08 | [Chapter 4 in CS3110 textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/data/intro.html) |
 | 8 | Lambda Calculus: Syntax | 21/08, 24/08, 25/08 | [TAPL](https://www.cis.upenn.edu/~bcpierce/tapl/) Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 2 |
 | 9 | Lambda Calculus: Semantics | 25/08, 26/08, 28/08 | [TAPL](https://www.cis.upenn.edu/~bcpierce/tapl/) Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 2 |
-| 10| Lambda Calculus: Encodings | 28/08, 31/08 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
+| 10| Lambda Calculus: Encodings | 28/08, 31/08, 01/09 | TAPL Chap. 5, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
+| 11| Lambda Calculus: STLC | 01/09 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6
 
 <br/>
 
