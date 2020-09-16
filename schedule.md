@@ -19,7 +19,9 @@ permalink: /schedule/
 | 11| Lambda Calculus: STLC | 01/09, 02/09, 04/09 | TAPL Chap. 9, Peter Selinger's [lecture notes on lambda calculus](https://arxiv.org/abs/0804.3434) Chap. 6 |
 | 12| (Side) Effects | 07/09, 08/09 | [Chapters 8.7 to 8.16 in CS3110 Textbook](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/mutability.html), [Imperative Programming, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html) |
 | 13| Modular Programming | 09/09, 11/09 |  [Chapter 5 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/modules/intro.html), [Modules](https://dev.realworldocaml.org/files-modules-and-programs.html) and [Functors](https://dev.realworldocaml.org/functors.html), Real World OCaml |
-| 14| Streams, Laziness and Memoization | 14/09 | [Chapters 8.1 to 8.4, 8.27 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/infinite.html), [Laziness & Memoization, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5) |
+| 14| Streams, Laziness and Memoization | 14/09, 15/09, 16/09 | [Chapters 8.1 to 8.4, 8.27 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/infinite.html), [Laziness & Memoization, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5) |
+| 15| Monads | | |
+| 16| GADTs | | |
 
 <br/>
 
