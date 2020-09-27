@@ -21,7 +21,7 @@ permalink: /schedule/
 | 13| Modular Programming | 09/09, 11/09 |  [Chapter 5 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/modules/intro.html), [Modules](https://dev.realworldocaml.org/files-modules-and-programs.html) and [Functors](https://dev.realworldocaml.org/functors.html), Real World OCaml |
 | 14| Streams, Laziness and Memoization | 14/09, 15/09, 16/09, 18/09 | [Chapters 8.1 to 8.4, 8.27 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/infinite.html), [Laziness & Memoization, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5) |
 | 15| Monads | 18/09, 21/09, 22/09, 23/09 | [Chapters 8.22 to 8.26  in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/monads.html), [Cambridge Computer Lab: AFP: Monads](https://www.cl.cam.ac.uk/teaching/1516/L28/monads-etc.pdf) |
-| 16| GADTs | | [UCam AFP Course: GADTs](https://www.cl.cam.ac.uk/teaching/1415/L28/gadts.pdf) |
+| 16| GADTs | 23/09, 25/09 | [UCam AFP Course: GADTs](https://www.cl.cam.ac.uk/teaching/1415/L28/gadts.pdf) |
 
 <br/>
 
