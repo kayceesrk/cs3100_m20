@@ -22,8 +22,8 @@ permalink: /schedule/
 | 14| Streams, Laziness and Memoization | 14/09, 15/09, 16/09, 18/09 | [Chapters 8.1 to 8.4, 8.27 in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/infinite.html), [Laziness & Memoization, Real World OCaml](https://dev.realworldocaml.org/imperative-programming.html#scrollNav-5) |
 | 15| Monads | 18/09, 21/09, 22/09, 23/09 | [Chapters 8.22 to 8.26  in CS3110 Textbook](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ads/monads.html), [Cambridge Computer Lab: AFP: Monads](https://www.cl.cam.ac.uk/teaching/1516/L28/monads-etc.pdf) |
 | 16| GADTs | 23/09, 25/09, 28/09, 29/09 | [UCam AFP Course: GADTs](https://www.cl.cam.ac.uk/teaching/1415/L28/gadts.pdf) |
-| 17| Prolog Basics | 30/09 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
-| 18| Logical Foundations | | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
+| 17| Prolog Basics | 30/09, 06/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227) |
+| 18| Logical Foundations | 06/10, 07/10 | [Chapter 1, 2, 3.1 in Logic, Programming and Prolog 2ed](https://www.ida.liu.se/~ulfni53/lpp/) |
 | 19| Solving a Logic Puzzle | | |
 | 20| Programming with Lists | | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 3 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 21| Control in Prolog | | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 4 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
