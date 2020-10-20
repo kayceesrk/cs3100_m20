@@ -27,8 +27,8 @@ permalink: /schedule/
 | 19| Solving a Logic Puzzle | 09/10 | |
 | 20| Programming with Lists | 12/10, 13/10, 14/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 3 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 21| Control in Prolog | 14/10, 16/10, 19/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 4 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-| 22| Mutable(?) data structures | 19/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 15 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
-| 23| Generate and Test | | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 14.1 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+| 22| Mutable(?) data structures | 19/10, 20/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 15 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
+| 23| Generate and Test | 20/10 | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 14.1 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 24| Cuts and Negation | | [Chapter 11 in PLCC](https://www.amazon.in/Programming-Languages-Concepts-Constructs-2e/dp/8177584227), [Chapter 11 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
 | 25| Countdown, Type Inference and Program Synthesis | | |
 | 26| Graph Search | | [Chapter 14.2 in AoP](https://mitpress.mit.edu/books/art-prolog-second-edition) |
