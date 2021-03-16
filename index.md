@@ -36,7 +36,7 @@ cover.
 * **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
 * **Slack**: [http://cs3100m20iitm.slack.com/](http://cs3100m20iitm.slack.com/) Join using `<your_email_id>@smail.iitm.ac.in`.
 * **Moodle**: [https://courses.iitm.ac.in/course/view.php?id=6280](https://courses.iitm.ac.in/course/view.php?id=6280)
-* **Video Lectures**: are available on [Google Drive](https://drive.google.com/drive/folders/1k6CWrKhLtbBEfx7suQ9du6af8n8PuwnB?usp=sharing).
+* **Video Lectures**: are available on [Google Drive](https://drive.google.com/drive/folders/1k6CWrKhLtbBEfx7suQ9du6af8n8PuwnB?usp=sharing) and on [youtube](https://www.youtube.com/watch?v=9R8Oim7YU20&list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D).
 * **TAs:** 
 
 | Name | Email | 
