@@ -1,5 +1,7 @@
 # CS3100: Paradigms of Programming (IITM Monsoon 2020)
 
+This is the Github repo for the course CS3100 Paradigms of Programming run at IITM in the Monsoon semester 2020. The course website is here: https://kcsrk.info/cs3100_m20/. 
+
 ## Running the Jupyter notebooks
 
 Install [docker](https://docs.docker.com/install/#supported-platforms) for your platform.
