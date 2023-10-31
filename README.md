@@ -1,6 +1,6 @@
 # CS3100: Paradigms of Programming (IITM Monsoon 2020)
 
-This is the Github repo for the course CS3100 Paradigms of Programming run at IITM in the Monsoon semester 2020. The course website is here: https://kcsrk.info/cs3100_m20/. 
+This is the Github repo for the course CS3100 Paradigms of Programming run at IITM in the Monsoon semester 2020. The course website is here: https://kcsrk.info/cs3100_m20/. The course also has a [YouTube playlist](https://www.youtube.com/watch?v=9R8Oim7YU20&list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D) of all the lectures. The repo includes all the lecture notes, slide deck and assignments. If you are learning OCaml, this course covers a significant chunk of the OCaml language. That said, the course deliberately does not cover the build system (dune), package manager (opam), command-line tools for the compiler (ocamlc, ocamlopt), editor integration (merlin, ocaml-lsp), etc. If you are keen to learn these, please refer to the excellent [ocaml.org](https://ocaml.org/) website. 
 
 ## Running the Jupyter notebooks
 
