@@ -29,7 +29,7 @@ As you go through the course, you will have to do `git pull` in the
 On Linux, you need to run the docker command with `sudo`:
 
 ```bash
-$ sudo docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:latest
+$ sudo docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:m20
 ```
 
 ## Virtual Box Disk Image
