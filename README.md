@@ -15,7 +15,7 @@ Install [docker](https://docs.docker.com/install/#supported-platforms) for your 
 ```bash
 $ git clone https://github.com/kayceesrk/cs3100_m20
 $ cd cs3100_m20/lectures
-$ docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:latest
+$ docker run -it -p 8888:8888 -v "$(pwd)":/lectures kayceesrk/cs3100_iitm:m20
 $ jupyter notebook --ip=0.0.0.0
 ```
 
